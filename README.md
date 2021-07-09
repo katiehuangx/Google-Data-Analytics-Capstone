@@ -14,4 +14,4 @@ The data set is publicly available on Kaggle (https://www.kaggle.com/arashnic/fi
 
 Medium (https://katiehuangx.medium.com/this-case-study-is-for-google-data-analytics-gda-capstone-project-course-54047cccf7cb)
 
-Kaggle (https://www.kaggle.com/katiehuangx/case-study-bellabeat-using-python)
+Kaggle (https://www.kaggle.com/katiehuangx/googleda-bellabeat)
